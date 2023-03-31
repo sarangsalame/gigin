@@ -1,0 +1,17 @@
+.job_wrapper{
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 250px;
+    border-radius: 2px;
+    border: 1px solid grey;
+}
+.job_title, .job_location{
+    margin: 0.5rem;
+}
+.job_wrapper button{
+    border-radius: 5px;
+    border: none;
+    padding:8px 5px;
+    width: 70px;
+    color: white;
+}
